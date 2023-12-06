@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 🚀 Desenvolvedor Python com mais de 6 anos de experiência em frameworks como Django e Flask. Atuo também como Full-Stack, possuindo habilidades abrangentes em algumas das mais importantes camadas do desenvolvimento web. 👨‍💻<br>👯 Procuro oportunidades de colaborar em projetos open source para contribuir com a comunidade e aprimorar minhas habilidades.<br>🌱 Atualmente, estou aprofundando meus conhecimentos em infraestrutura e Inteligência artificial, buscando sempre estar atualizado com as tecnologias mais recentes.<br>💬 Pergunte-me sobre hardware tech e carros, duas paixões que complementam minha vida profissional.<br>
-⚡ Observação: Resolvi iniciar um novo github pra colocar somente meus projetos abertos do meu cardápio de projetos!! Por isso, Aceito qualquer desafío. 🎮🏎️<br>
+⚡ Observação: Resolvi iniciar um novo github pra colocar somente projetos abertos do meu cardápio! Por isso, Aceito qualquer desafío. 🎮🏎️<br>
 
 
 
